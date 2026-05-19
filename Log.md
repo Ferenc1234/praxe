@@ -8,4 +8,7 @@
 
 ### Den 2. - 19. 05. 2026
 
+- zprovoznění AMD Kria KV260 (3 hodiny jsem zkoušel bezpředmětně změnit heslo na ubuntu 🙏, nakonec jsem zjistil že heslo je kriaheslo1234 😭🥀)
+- podání "přihlášky" pro Laniakea cluster
+- úprava místa pro práci (seřízení monitorů, zapojení počítače kria)
 - 
