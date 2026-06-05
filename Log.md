@@ -50,3 +50,6 @@
 - Práce na stránkách, přidání blogu, optimalizace stránek, úprava backendu a bezpečnosti, SEO
 
 ### Den 10.
+- Domluva o dalším pokračování
+- Konzultace v jakém z projektů nakonec pokračovat (nakonec pravděpodobně kria kv260, servopohony a rozjetí strojového učení pro humaniodního robota - potřeba změnit i HW, tj. přesunout težiště níže, změnit hlavu a procesory dát jinam než do hlavy atd.)
+- Předání projektů (rozjeté cnc atd)
